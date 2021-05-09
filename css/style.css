@@ -1,0 +1,181 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0 auto;
+    width: 60%;
+}
+h1 {
+    margin-top: 20px;
+    font-size: 40px;
+    margin-left: 70px;
+    font-family:'Pacifico', cursive;
+    color: rgb(32, 32, 32);
+}
+#logoPar {
+    margin-left: 70px;
+    font-size: 12px;
+    font-weight: 700;
+    color: rgb(32, 32, 32);
+    margin-top: 5px;
+}
+
+#logoImg {
+    float: left;
+    margin-top: -55px;
+    width: 60px;
+    height: 60px;
+}
+
+#contact {
+    float: right;
+    margin-top: -30px;
+}
+
+#rss{
+    margin-left: 10px;
+}
+
+#stTest {
+    background-image: linear-gradient(145deg, #3e3d40 16.67%, #ffffff 16.67%, #ffffff 50%, #3e3d40 50%, #3e3d40 66.67%, #ffffff 66.67%, #ffffff 100%);
+    background-size: 15.00px 10.50px;
+    margin-top: 40px;
+    width: 100%;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: 50px;
+    color: rgb(87, 86, 86);
+}
+#post {
+    color: rgb(184, 184, 184);
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#print {
+    float: right;
+}
+#print li {
+    display: inline-block;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#mainImg {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.mainP {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    text-align: left;
+    font-size: 20px;
+    line-height: 1.6;
+    margin-top: 25px;
+    text-indent: 50px;
+}
+
+#check {
+    width: 100%;
+    height: 300px;
+    background-image: url("https://raw.githubusercontent.com/LTUC/amman-201d25/main/class-10/lab-a/lab-assets/list-bg.png"); 
+}
+
+#form1 {
+    float: left;
+    width: 50%;
+    margin-top: 20px;
+    margin-left: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(36, 36, 36);
+    font-size: 20px;
+}
+
+.form1C {
+margin-top: 25px;
+}
+
+#form2 {
+    float: right;
+    margin-top: -248px;
+    width: 50%;
+    margin-right: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(36, 36, 36);
+    font-size: 20px; 
+}
+
+
+#stTest2 {
+    background-image: linear-gradient(145deg, #3e3d40 16.67%, #ffffff 16.67%, #ffffff 50%, #3e3d40 50%, #3e3d40 66.67%, #ffffff 66.67%, #ffffff 100%);
+    background-size: 15.00px 10.50px;
+    margin-top: 50px;
+    width: 100%;
+}
+
+button {
+    float: right;
+    font-size: 15px;
+    font-weight: lighter;
+    padding: 20px 40px;
+    color: white;
+    background: rgb(165, 81, 81);
+    margin-top: -70px;
+}
+
+#vanPic {
+    float: left;
+    margin-top: 20px;
+}
+
+#vanP1 {
+    margin-top: 30px;
+    margin-left: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(87, 86, 86);
+}
+
+#vanP2 {
+    margin-top: 5px;
+    width: 60%;
+    margin-left: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 23px;
+    color: rgb(87, 86, 86);
+}
+
+footer {
+    width: 100%;
+    height: 250px;
+}
+
+footer img {
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+#copy1 {
+    text-align: center;
+    margin-top: 35px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+#copy2 {
+    text-align: center;
+    margin-top: 20px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
